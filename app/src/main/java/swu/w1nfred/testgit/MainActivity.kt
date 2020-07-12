@@ -11,4 +11,10 @@ class MainActivity : AppCompatActivity() {
     private fun upload(){
         //upload data
     }
+    private fun connect(){
+        //connect to the net
+    }
+    private fun beautify(){
+        //beautify the project
+    }
 }
